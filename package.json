@@ -1,0 +1,25 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomo-o30/node-app.git"
+  },
+  "author": "tomohiro ogawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomo-o30/node-app/issues"
+  },
+  "homepage": "https://github.com/tomo-o30/node-app#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
